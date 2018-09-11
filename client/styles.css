@@ -1,0 +1,48 @@
+.panel, .input {
+    display: flex;
+    justify-content: left;
+}
+
+
+h1 {
+    color: rgb(32, 99, 145);
+    font-size: 100px;
+}
+
+
+body {
+    background-color: rgb(217, 222, 226);
+    font-family: 'Trebuchet MS', 'Gill Sans MT', Calibri, 'Gill Sans', sans-serif
+}
+
+
+input {
+    font-size: 30px;
+}
+
+
+h2 {
+    color: rgb(32, 99, 145);
+    margin-top: 3rem;
+    font-size: 49px;
+}
+
+
+.chirps {
+    font-size: 35px;
+    color: black;
+}
+
+
+.current {
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+}
+
+
+button {
+    color: rgb(59, 59, 59);
+    font-size: 20px;
+    margin-left: 1rem;
+}
